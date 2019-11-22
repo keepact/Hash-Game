@@ -2,15 +2,15 @@
 
 Game developed in my React JS Introduction
 
-## App Screen
+## Game Screen
  
  <p align="center">
-  <img alt="GitHub language count" src="https://github.com/keepact">
+  <img alt="GitHub language count" src="https://github.com/keepact/Hash-Game/blob/master/game-screen.png">
  </p>
  
 ## What is this application about?
 
-It is classic Hash Game. There are 1 screens.
+It is classic Hash Game. There are 1 screen.
 
  
 ## Javascript Project:
